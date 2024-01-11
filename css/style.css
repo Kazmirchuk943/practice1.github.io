@@ -279,6 +279,10 @@ a {
    gap: 20px;
 }
 
+.footer{
+   padding-bottom: 100px;
+}
+
 @media (max-width:1200px) {
    .nav-right {
       margin-left: 150px;
